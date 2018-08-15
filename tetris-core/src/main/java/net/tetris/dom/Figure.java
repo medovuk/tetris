@@ -80,4 +80,6 @@ public interface Figure {
     int getWidth();
 
     Figure getCopy();
+    
+    void myMethod();
 }

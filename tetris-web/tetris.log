@@ -1,0 +1,7 @@
+15:07:15.733 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - Clazz: class org.eclipse.jetty.server.Request loaded by ClassRealm[plugin>org.mortbay.jetty:jetty-maven-plugin:8.1.4.v20120524, parent: sun.misc.Launcher$AppClassLoader@74a14482]
+15:07:15.738 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - not removed: contextclassloader=WebAppClassLoader=Tetris@55d9b8f0clazz's classloader=ClassRealm[plugin>org.mortbay.jetty:jetty-maven-plugin:8.1.4.v20120524, parent: sun.misc.Launcher$AppClassLoader@74a14482]
+15:07:15.739 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - Clazz: class org.apache.jasper.runtime.PageContextImpl loaded by ClassRealm[plugin>org.mortbay.jetty:jetty-maven-plugin:8.1.4.v20120524, parent: sun.misc.Launcher$AppClassLoader@74a14482]
+15:07:15.739 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - not removed: contextclassloader=WebAppClassLoader=Tetris@55d9b8f0clazz's classloader=ClassRealm[plugin>org.mortbay.jetty:jetty-maven-plugin:8.1.4.v20120524, parent: sun.misc.Launcher$AppClassLoader@74a14482]
+15:07:15.739 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - Clazz: class net.tetris.services.Player loaded by WebAppClassLoader=Tetris@55d9b8f0
+15:07:15.739 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - removed
+15:07:15.739 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - javax.el.BeanELResolver purged
